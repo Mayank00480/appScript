@@ -36,3 +36,26 @@
     transform: rotate(360deg);
   }
 }
+
+.footer{
+  width : 100vw;
+  background-color: black;
+  height : 400px;
+  color : white;
+  padding : 3rem 5rem;
+}
+.footer .first{
+  display: flex;
+  justify-content: space-evenly;
+  width : 100%;
+}
+.footer .first .left{
+  display: flex;
+  justify-content: start;
+  width: 30vw;
+}
+.footer .first .right {
+  display: flex;
+  justify-content: start;
+  width: 30vw;
+}

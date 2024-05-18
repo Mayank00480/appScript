@@ -1,0 +1,19 @@
+.main{
+    padding-top: 2rem;
+    display: flex;
+    justify-content: space-evenly;
+    width : 100vw;
+}
+.links{
+    width: 10rem;
+    display: flex;
+    justify-content: space-evenly;
+}
+.logo{
+    width : '200px';
+    display :'flex' ;
+    justify-content : 'start';
+}
+.text{
+    font-weight: bold;
+}
